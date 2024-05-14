@@ -12,6 +12,7 @@
   - 6 convolution layers
   - 4 max pooling layers
   - 3 fully connected layers
+    ### Architicture
 
 ## Metrics
 - Using the cross-entropy loss and accuracy over 50 epochs
