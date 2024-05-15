@@ -16,13 +16,7 @@ Link to the images: <a href = 'https://drive.google.com/drive/folders/1BtvgSEVqj
   - 6 convolution layers
   - 4 max pooling layers
   - 3 fully connected layers
-    ### Architicture
-
+  - 
 ## Metrics
 - Using the cross-entropy loss and accuracy over 50 epochs
 
-  ### Plot Loss
-
-
-
-  ### Plot Accuracy
